@@ -1,1 +1,3 @@
+//Disciplina: [Fundamentos de Computação e Algoritmos].
+
 alert(2024 - prompt('Quando você nasceu?'))

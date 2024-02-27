@@ -1,3 +1,5 @@
+//Disciplina: [Fundamentos de Computação e Algoritmos].
+
 // Array Bidimensional - Matriz
 
 var averageTemp = []

@@ -1,3 +1,5 @@
+//Disciplina: [Fundamentos de Computação e Algoritmos].
+
 // TDD - Test Driven Development
 var newMap = new Map();
 

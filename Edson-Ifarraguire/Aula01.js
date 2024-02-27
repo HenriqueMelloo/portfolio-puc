@@ -1,3 +1,5 @@
+//Disciplina: [Fundamentos de Computação e Algoritmos].
+
 // Código integrando os conceitos apresentados:
 // - Declaração de variável
 // - Uso de comando de seleção
