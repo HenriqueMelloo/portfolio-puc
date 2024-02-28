@@ -1,4 +1,4 @@
-// Aula 01 - Disciplina: [Fundamentos de Computação e Algoritmos].
+// Aula 01 - Disciplina: [Programação Orientada a Objetos].
 
 //Programação Procedual
 
