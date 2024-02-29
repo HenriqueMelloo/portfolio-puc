@@ -5,7 +5,7 @@
 let numero01 = 10;
 let numero02 = 20
 
-function add(n1,n2) {
+function add(n1, n2) {
     return n1 + n2;
 }
 
