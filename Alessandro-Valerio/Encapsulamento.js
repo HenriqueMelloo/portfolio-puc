@@ -1,4 +1,5 @@
 // Conceitos - Encapsulamento
+
 // Permitir que atributos e métodos sejam
 // agrupados de certa forma em uma interface bem definida
 // para manipular os dados de um objeto de forma eficiente.
