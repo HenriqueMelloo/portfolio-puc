@@ -1,3 +1,5 @@
+// Aula 01 - Disciplina: [Programação Orientada a Objetos].
+
 // Conceitos - Abstração
 
 // POO é amplamente baseada na abstração digital da vida real.

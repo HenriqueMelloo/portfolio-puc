@@ -1,3 +1,5 @@
+// Aula 01 - Disciplina: [Programação Orientada a Objetos].
+
 // Conceitos - Herança Prototype
 
 // Definição do protótipo Pessoa

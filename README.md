@@ -4,14 +4,16 @@ Aula Pós-graduação em Desenvolvimento FullStack
 
 (1) Disciplina: [Fundamentos de Computação e Algoritmos] - Ministrado pelos professores Edson Alfaguire e Mario Souto. Onde foram apresentados os conceitos básicos da línguagem de programação e fundamentos de algoritmos.
 
-(2) Disciplina: [Fundamentos de Computação e Algoritmos] - Ministrado pelo professor Alessandro Valério. Apresentando conceitos básicos de: Encapsulamento / Abstração / Herança / Polimorfismo.
+    Apresentando conceitos básicos e dando exemplos de: fila, pilha, maps e set.
 
-Conceitos - Vantagens e Ganhos
+(2) Disciplina: [Fundamentos de Computação e Algoritmos] - Ministrado pelo professor Alessandro Valério e Edson Iffaguire. Apresentando conceitos básicos de: Encapsulamento / Abstração / Herança / Polimorfismo.
 
-Encapsulamento -> Redução de complexidade / Proteção de dados.
+    Conceitos - Vantagens e Ganhos
 
-Abstração -> Redução de complexidade / Maior reuso.
+    Encapsulamento -> Redução de complexidade / Proteção de dados.
 
-Herança -> Eliminar redundância no código.
+    Abstração -> Redução de complexidade / Maior reuso.
 
-Polimorfismo -> Eliminar lógica desnecessária no código.
+    Herança -> Eliminar redundância no código.
+
+    Polimorfismo -> Eliminar lógica desnecessária no código.

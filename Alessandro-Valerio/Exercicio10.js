@@ -1,3 +1,5 @@
+// Aula 01 - Disciplina: [Programação Orientada a Objetos].
+
 // Conceitos - Herança
 
 // Permite o compartilhamento de atributos e métodos entre objetos.
