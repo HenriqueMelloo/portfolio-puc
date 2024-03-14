@@ -1,4 +1,4 @@
-// Aula 3 -  Disciplina: [Programação Orientada a Objetos].
+// Aula 3  - Parte 1 - Disciplina: [Programação Orientada a Objetos].
 
 /* const
 -- Declara uma constante com escopo de bloco.
