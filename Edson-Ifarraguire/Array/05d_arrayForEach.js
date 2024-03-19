@@ -1,4 +1,4 @@
-// Aula 3 - Parte 2 - Disciplina: [Programação Orientada a Objetos].
+// Aula 3 - Parte 2 - Disciplina: [Programação Orientada a Objetos]..
 
 array = [4, 5, 6, 7, 8, 9, 10]
 

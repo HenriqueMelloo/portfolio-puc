@@ -1,4 +1,4 @@
-// Aula 3 - Parte 2 - Disciplina: [Programação Orientada a Objetos].
+// Aula 3 - Parte 2 - Disciplina: [Programação Orientada a Objetos]..
 
 // Define uma variável chamada 'somar' e atribui uma função de seta a ela que não possui parâmetros.
 var somar = () => console.log("Função sem parametro")

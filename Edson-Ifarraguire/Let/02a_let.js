@@ -1,4 +1,4 @@
-// Aula 3 - Parte 1 - Disciplina: [Programação Orientada a Objetos].
+// Aula 3 - Parte 1 - Disciplina: [Programação Orientada a Objetos]..
 
 /* let
 -- Declara uma variável com escopo de bloco ou variável local.

@@ -1,4 +1,4 @@
-// Aula 3 - Parte 1 - Disciplina: [Programação Orientada a Objetos].
+// Aula 3 - Parte 1 - Disciplina: [Programação Orientada a Objetos]..
 
 /* var
 -- Declara uma variável com escopo de função.

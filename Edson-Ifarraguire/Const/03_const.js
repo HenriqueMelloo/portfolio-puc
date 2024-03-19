@@ -1,4 +1,4 @@
-// Aula 3  - Parte 1 -  Disciplina: [Programação Orientada a Objetos].
+// Aula 3  - Parte 1 -  Disciplina: [Programação Orientada a Objetos]..
 
 /* Const
 -- O primeiro código roda sem erro

@@ -1,4 +1,4 @@
-// Aula 3 - Parte 2 - Disciplina: [Programação Orientada a Objetos].
+// Aula 3 - Parte 2 - Disciplina: [Programação Orientada a Objetos]..
 
 // Juntando Operações
 
